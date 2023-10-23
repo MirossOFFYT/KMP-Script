@@ -8,6 +8,10 @@
       {
         "name": "change bot server name",
         "script": "$changeUsernameWithID[1138506415334498317; ``\"LE NOUVEAU NOM\"`` ]"
+      },
+      {
+        "name": "No information yet",
+        "script": "coming soon"
       }
     ]
   }
