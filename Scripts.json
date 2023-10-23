@@ -1,0 +1,1 @@
+{"Main script" :{"Bot assignment" :{"name":"desable lvlup","script":"$setServerVar[lvlup;off]"},{"name":"change bot server name","script":"$changeUsernameWithID[1138506415334498317; ``\"LE NOUVEAUX NOM\"`` ]"}}}
