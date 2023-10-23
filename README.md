@@ -6,3 +6,6 @@ Script pour KMP Infinity Discord bot
 
 > [!IMPORTANT]
 > Les scripts communautaire on l'obligation de passer par une vérification.
+
+> [!IMPORTANT]
+> [Accédez au script ici!](/script.json)
